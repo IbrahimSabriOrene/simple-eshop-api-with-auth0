@@ -3,6 +3,11 @@
 
 ##### The main purpouse of this project is learning fundamentals of web api's, logging, exception handling.
 
+### How to run this project:
+```code
+dotnet run --project Product.Api
+```
+
 EndPoints:
 #### Category
 ```code
