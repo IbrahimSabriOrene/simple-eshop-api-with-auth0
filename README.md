@@ -4,9 +4,27 @@
 ##### The main purpouse of this project is learning fundamentals of web api's, logging, exception handling.
 
 ### How to run this project:
+
 ```code
 dotnet run --project Product.Api
 ```
+
+## Technologies
+
+- .NET 6
+- ASP.NET Core 6.0.320
+- Dapper
+- MediatR
+- FluentValidation
+- Swagger
+- JWT
+
+
+## Features
+
+- [x] Database Sql Express Server 2019
+- [x] Repository Pattern (Dapper)
+
 
 EndPoints:
 #### Category
