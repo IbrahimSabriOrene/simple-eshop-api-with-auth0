@@ -30,7 +30,7 @@
 ```json
 [
   {
-    "Id": ,
+    "Id": "0000-0000-0000-0000",
     "Name": "Category A",
     "Description": "Description for Category A",
 
@@ -48,13 +48,13 @@
 ```json
 [
   {
-    "Id": 0000-0000-0000-0000,
+    "Id": "0000-0000-0000-0000",
     "Name": "Category A",
     "Description": "Description for Category A",
     "ParentCategoryId": "0000-0000-0000-0000"
   },
   {
-    "Id": 0000-0000-0000-0000,
+    "Id": "0000-0000-0000-0000",
     "Name": "Category B",
     "Description": "Description for Category B",
     "ParentCategoryId": "0000-0000-0000-0000
