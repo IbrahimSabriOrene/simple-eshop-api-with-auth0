@@ -5,9 +5,13 @@
 
 ### How to run this project:
 
+First create the database using the sql code in SQL folder.
+
+Then run this code in your terminal:
 ```code
 dotnet run --project Product.Api
 ```
+
 
 ## Technologies
 
