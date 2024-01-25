@@ -34,16 +34,6 @@ CREATE TABLE Products (
 );
 
 -- Create SubCategoryProducts table
-CREATE TABLE SubCategoryProducts (
-    ParentCategoryId UNIQUEIDENTIFIER,
-    SubCategoryId UNIQUEIDENTIFIER,
-    ProductId UNIQUEIDENTIFIER,
-    PRIMARY KEY (SubCategoryId, ProductId),
-    FOREIGN KEY (SubCategoryId) REFERENCES SubCategories(Id),
-    FOREIGN KEY (ProductId) REFERENCES Products(Id),
-    FOREIGN KEY (ParentCategoryId) REFERENCES Categories(Id),
-    -- other fields
-);
 
 -- Insert sample data into Categories table
 INSERT INTO Categories (Id, Name, Description)
