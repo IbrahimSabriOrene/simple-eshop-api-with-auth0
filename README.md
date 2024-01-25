@@ -1,6 +1,8 @@
 ### Simple Eshop Web APi With Auth0
 
 
+##### The main purpouse of this project is learning fundamentals of web api's, logging, exception handling.
+
 EndPoints:
 #### Category
 ```code
