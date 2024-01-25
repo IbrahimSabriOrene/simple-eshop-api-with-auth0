@@ -12,7 +12,7 @@ dotnet run --project Product.Api
 ## Technologies
 
 - .NET 6
-- ASP.NET Core 6.0.320
+- ASP.NET Core 6
 - Dapper
 - MediatR
 - FluentValidation
