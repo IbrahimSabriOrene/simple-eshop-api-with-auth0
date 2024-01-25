@@ -57,7 +57,7 @@
     "Id": "0000-0000-0000-0000",
     "Name": "Category B",
     "Description": "Description for Category B",
-    "ParentCategoryId": "0000-0000-0000-0000
+    "ParentCategoryId": "0000-0000-0000-0000"
   }
 ]
 ```
