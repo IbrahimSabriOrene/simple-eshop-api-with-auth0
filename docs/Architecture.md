@@ -27,7 +27,7 @@
 - **ParentCategoryId** (int or string, optional): Id of the parent category.
 
 
-# Authentication and Authorization
+### Authentication and Authorization
 
 - **OAuth0** : Authentication via OAuth0.
 
